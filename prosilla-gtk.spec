@@ -9,7 +9,7 @@ Group:		Applications/Networking
 Source0:	http://www.v-lo.krakow.pl/~anszom/prosilla/prosilla-%{version}.tgz
 # Source0-md5:	a22c90786122ea1ab6cfd3807001d23e
 URL:		http://www.v-lo.krakow.pl/~anszom/prosilla/
-BuildRequires:  gtk+-devel
+BuildRequires:	gtk+-devel
 BuildRequires:	libstdc++-devel
 BuildRequires:	ncurses-devel
 Provides:	prosilla
