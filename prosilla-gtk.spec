@@ -1,6 +1,6 @@
 
 Summary:	ProSilla - a program which accelerates file transfers over SSH (gtk version)
-Summary(pl.UTF-8):   ProSilla - program przyspieszający pobieranie dużych plików przez SSH (wersja gtk)
+Summary(pl.UTF-8):	ProSilla - program przyspieszający pobieranie dużych plików przez SSH (wersja gtk)
 Name:		prosilla-gtk
 Version:	1.2
 Release:	1
